@@ -1,0 +1,6 @@
+@import '../../../node_modules/bootstrap/scss/bootstrap.scss';
+
+/* Variables overrides */
+.list-group {
+    --bs-list-group-bg: transparent;
+}

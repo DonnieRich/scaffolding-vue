@@ -13,6 +13,7 @@
     "author": "Donnie Rich",
     "files": [
         "./index.js",
+        "src/",
         "template/*"
     ],
     "license": "ISC",

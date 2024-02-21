@@ -4,6 +4,9 @@
     "description": "A simple scaffolding for VueJS",
     "main": "./index.js",
     "type": "module",
+    "bin": {
+        "create-scaffolding-vue": "./index.js"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },

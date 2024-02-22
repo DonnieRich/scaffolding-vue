@@ -7,6 +7,15 @@
     "bin": {
         "create-scaffolding-vue": "./index.js"
     },
+    "exports": {
+        ".": [
+            {
+                "default": "./index.js"
+            },
+            "./src/main.js",
+            "./src/utils.js"
+        ]
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },

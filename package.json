@@ -1,6 +1,6 @@
 {
     "name": "@ricciodev/create-scaffolding-vue",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A simple scaffolding for VueJS",
     "main": "./index.js",
     "type": "module",
